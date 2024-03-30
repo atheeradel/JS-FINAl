@@ -23,7 +23,7 @@ function resetForm() {
         <div class="card-body">
           <h5 class="card-title">user info</h5>
           <p class="card-text">First Name:${firstName}</p>
-          <p class="card-text">lirst Name:${lastName}</p>
+          <p class="card-text">last Name:${lastName}</p>
           <p class="card-text">Email: ${email}</p>
           <p class="card-text">Phone: ${phone}</p>
           <p class="card-text">Date of Birth: ${dob}</p>
